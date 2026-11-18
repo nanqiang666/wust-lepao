@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "active": "",
+ "accounts": {},
+ "environment": {
+  "school_id": 61,
+  "school_name": "武汉科技大学",
+  "api_host": "api2.lptiyu.com",
+  "campus_host": "zhty.wust.edu.cn",
+  "api_proxy": "",
+  "h5_base": "/bdlp_h5_fitness_test/public/index.php",
+  "oss_host": "lptiyu-data.oss-cn-hangzhou.aliyuncs.com",
+  "wx_app_id": "wx5a2e1ff396785475",
+  "qq_app_id": "1105660458"
+ },
+ "policy": {
+  "max_per_day": 1,
+  "style": "wust",
+  "zone_key": "qinhu",
+  "gender": "male",
+  "min_checkpoints": 3,
+  "dist_lo": 2.60,
+  "dist_hi": 3.30,
+  "pace_lo": 240,
+  "pace_hi": 480,
+  "mobile_model": "BRQ-AN00",
+  "vena4": false
+ },
+ "runtime": {
+  "spacing_min": 5,
+  "spacing_max": 10
+ }
+}

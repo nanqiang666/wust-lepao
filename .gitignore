@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.mitm
+.DS_Store
+submit_result.log
+state/
+logs/
+lepaorun/config.json
+config.json
+qr_*.png
+.tmp*/
